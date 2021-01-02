@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    padding: 10px;
+    background: #232B2B;
+    color: white;
+}
