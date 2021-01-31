@@ -4,6 +4,7 @@
 }
 
 #header {
+    display: flex;
     padding: 10px;
     background: #232B2B;
     color: white;
